@@ -260,12 +260,6 @@ To execute the automation trigger these fields on automation class. Notice the g
 }
 ```
 
-Push notification to WebApp
-===========================
-
-https://www.freecodecamp.org/news/how-to-add-push-notifications-to-a-web-app-with-firebase-528a702e13e1/#:~:text=Notifications%20with%20Firebase,any%20device%20using%20HTTP%20requests.
-
-
 Import json
 ===========
 
