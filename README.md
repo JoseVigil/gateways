@@ -1,5 +1,5 @@
-Synway Gateway 32
-=================
+Synway Gateway 16/32
+====================
 
 <p align="center">
   <img src="images/notimation_synway.png" alt="Noti.ms"/>
@@ -22,7 +22,7 @@ La herramienta apunta a controlar y automatizar la utilizacion de los gateways S
 Setup Firestore
 ===============
 
-# Setup Firebase CLI reference and install local environment
+#### Setup Firebase CLI reference and install local environment
 
 https://firebase.google.com/docs/cli
 
